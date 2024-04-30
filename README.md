@@ -20,5 +20,6 @@
 
 # Сопутствующие проекту видео : 
 + [Видеопрезентация технического задания](https://drive.google.com/file/d/1miN0zJez6H7aNAAvwXnOfP5e7loeZ5HZ/view)
++ [Видеопрезентация результатов 2 аттестации](https://youtu.be/oolA-oFSvOI)
 
 
