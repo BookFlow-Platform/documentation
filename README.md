@@ -17,6 +17,7 @@
 
 # Сопутствующие проекту презентации : 
 + [Презентация технического задания](https://github.com/polinaavdeeva/BookFlow/tree/main/presentation)
++ [Презентация результатов 2 аттестации](https://github.com/BookFlow-Platform/documentation/blob/main/presentation/BookFlow_2att.pdf)
 
 # Сопутствующие проекту видео : 
 + [Видеопрезентация технического задания](https://drive.google.com/file/d/1miN0zJez6H7aNAAvwXnOfP5e7loeZ5HZ/view)
