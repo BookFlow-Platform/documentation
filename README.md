@@ -13,6 +13,7 @@
 
 # Сопутствующая поекту документация :
 + [Техническое задание](https://github.com/polinaavdeeva/BookFlow/tree/main/technical%20specification)
++ [Курсовой проект] (https://github.com/BookFlow-Platform/documentation/tree/main/course%20work)
 
 # Сопутствующие проекту презентации : 
 + [Презентация технического задания](https://github.com/polinaavdeeva/BookFlow/tree/main/presentation)
