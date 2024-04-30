@@ -11,7 +11,7 @@
 + [Trello](https://trello.com/b/niunUrMb/платформа-bookflow)
 + [Figma](https://www.figma.com/file/lL9ivb5eHuyEATzUmfhIq7/BookFlow-проект-по-тп-3-курс?type=design&node-id=0-1&mode=design&t=YmMLKGUrcH7EZul5-0)
 
-# Сопутствующая поекту документация :
+# Сопутствующая проекту документация :
 + [Техническое задание](https://github.com/polinaavdeeva/BookFlow/tree/main/technical%20specification)
 + [Курсовой проект](https://github.com/BookFlow-Platform/documentation/tree/main/course%20work)
 
