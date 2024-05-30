@@ -23,5 +23,6 @@
 + [Видеопрезентация технического задания](https://drive.google.com/file/d/1miN0zJez6H7aNAAvwXnOfP5e7loeZ5HZ/view)
 + [Видеопрезентация результатов 2 аттестации](https://youtu.be/oolA-oFSvOI)
 + [Обзор серверной части](https://youtu.be/eEEkIVuC0oc)
++ [Обзор клиентской части](https://youtu.be/u3Uf3ld_Qfg)
 
 
