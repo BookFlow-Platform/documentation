@@ -13,6 +13,7 @@
 
 # Сопутствующая поекту документация :
 + [Техническое задание](https://github.com/polinaavdeeva/BookFlow/tree/main/technical%20specification)
++ [Swagger документация](https://app.swaggerhub.com/apis/POLINAAVDEEVA55_1/BookFlow/1.0.0#/comments/post_comments)
 
 # Сопутствующие проекту презентации : 
 + [Презентация технического задания](https://github.com/polinaavdeeva/BookFlow/tree/main/presentation)
@@ -20,4 +21,15 @@
 # Сопутствующие проекту видео : 
 + [Видеопрезентация технического задания](https://drive.google.com/file/d/1miN0zJez6H7aNAAvwXnOfP5e7loeZ5HZ/view)
 
+# Данные для демонстрации :
++ Необходимо перейти по ссылке [BookFlow](https://bookflow-client.vercel.app/) и авторизироваться
 
+Учетные данные:
+
+Пользователь:
+- Логин (email): g@g.com
+- Пароль: 12345
+
+Администратор:
+- Логин (email): admin@gmail.com
+- Пароль: admin
