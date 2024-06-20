@@ -11,6 +11,9 @@
 + [Trello](https://trello.com/b/niunUrMb/платформа-bookflow)
 + [Figma](https://www.figma.com/file/lL9ivb5eHuyEATzUmfhIq7/BookFlow-проект-по-тп-3-курс?type=design&node-id=0-1&mode=design&t=YmMLKGUrcH7EZul5-0)
 
+# Аналитика веб-приложения
++ [Личный кабинет аналитики](https://metrika.yandex.ru/overview?id=97632400&period=week&group=day&isMinSamplingEnabled=false&accuracy=1&isSamplingEnabled=true)
+
 # Сопутствующая проекту документация :
 + [Техническое задание](https://github.com/polinaavdeeva/BookFlow/tree/main/technical%20specification)
 + [Swagger документация](https://app.swaggerhub.com/apis/POLINAAVDEEVA55_1/BookFlow/1.0.0#/comments/post_comments)
@@ -25,6 +28,7 @@
 + [Видеопрезентация результатов 2 аттестации](https://youtu.be/oolA-oFSvOI)
 + [Обзор серверной части](https://youtu.be/eEEkIVuC0oc)
 + [Обзор клиентской части](https://youtu.be/u3Uf3ld_Qfg)
++ [Видео демонстрация проекта](https://youtu.be/WJ-zcpDPWPo)
 
 # Данные для демонстрации :
 + Необходимо перейти по ссылке [BookFlow](https://bookflow-client.vercel.app/) и авторизироваться
