@@ -42,3 +42,6 @@
 Администратор:
 - Логин (email): admin@gmail.com
 - Пароль: admin
+
+# Инструкция по использованию
++ [Инструкция по использованию](https://github.com/BookFlow-Platform/documentation/tree/main/guide)
